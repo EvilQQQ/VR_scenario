@@ -1,0 +1,45 @@
+{
+    "available_scenarios": [
+        {
+            "Town04": [
+                {
+                    "available_event_configurations": [
+                        {
+                            "name": {
+                                "direction": "left"
+                            },
+                            "other_actors": {
+                                "left": [
+                                    {
+                                        "pitch": "0.0",
+                                        "x": "-390.360",
+                                        "y": "9.23000",
+                                        "yaw": "180.0",
+                                        "z": "-0.2"
+                                    }
+                                ],
+                                "front": [
+                                    {
+                                        "pitch": "0.0",
+                                        "x": "-430.000",
+                                        "y": "5.500",
+                                        "yaw": "180.0",
+                                        "z": "-0.2"
+                                    }
+                                ]
+                            },
+                            "transform": {
+                                "pitch": "360.0",
+                                "x": "-410.645508",
+                                "y": "5.925422668457031",
+                                "yaw": "179.631577",
+                                "z": "0.0"
+                            }
+                        }
+                    ],
+                    "scenario_type": "Scenario3"
+                }
+            ]
+        }
+    ]
+}
